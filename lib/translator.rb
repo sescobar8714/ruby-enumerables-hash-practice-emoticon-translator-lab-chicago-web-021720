@@ -23,9 +23,9 @@ end
 #emoticons.each do |name,emojis|
   #new_hash["get_meaning"][emojis[1]] = name
 #  new_hash["get_emoticon"][emojis[0]] = emojis[1]
-end
+#end
 #return new_hash
-end
+#end
 
 
 
