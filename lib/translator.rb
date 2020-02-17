@@ -31,9 +31,9 @@ def get_japanese_emoticon(file_path, emoticon)
   #binding.pry
   #library = load_library(file_path)
   #library["get_emoticon"].each do |name, emojis|
-    #result = 
+    #result =
   end
-  
+
 end
 
 def get_english_meaning(file_path, emoticon)
