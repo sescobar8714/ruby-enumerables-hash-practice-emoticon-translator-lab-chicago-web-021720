@@ -52,7 +52,7 @@ result = emoticons["get_meaning"][emoticon]
 if result
   result
 else
-  "Sorry, That emoticon was not found"
+  "Sorry, that emoticon was not found"
 end
 end
 end
